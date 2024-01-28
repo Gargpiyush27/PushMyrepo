@@ -6,5 +6,10 @@
 4. git push -u origin master
 	4.1. username? →> LoveBabbar
 	4.2. password? → ghp_wsgZocNaU04bRucsNF5Kh2HAnKAau114zyYv
+<<<<<<< HEAD
 Dummy change
 New change
+=======
+
+dummy changes
+>>>>>>> 3648290603b4828c48d82aca38482e866b6af67d
